@@ -2,7 +2,7 @@
 - 👀 I’m interested in COBOL in Mainframe and Unix. C# in .Net
 - 🌱 I’m currently learning COBOL, JCL, DB2, CICS, C# in .Net
 - 💞️ I’m looking to collaborate on COBOL programs development.
-- 📫 How to reach me ...
+- 📫 How to reach me agustinmicucci@gmail.com
 - 😄 Pronouns: Mr. king of the world...nahhh Agustin is just fine.
 - ⚡ Fun fact: If you native languaje is english the call me Austin. 
 
